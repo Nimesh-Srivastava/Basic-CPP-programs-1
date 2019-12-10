@@ -3,7 +3,7 @@
 
 using namespace std;
 
-void main()
+int main()
 {
 	system("cls");
 	int a,b;
@@ -12,4 +12,7 @@ void main()
 	cout<<"Enter b : ";
 	cin>>b;
 	cout<<"Remainder after dividing a by b : "<<a%b;
+	
+	(void)_getch();
+	return 0;
 }
