@@ -12,4 +12,5 @@ void main()
 	cout<<"Enter selling price : ";
 	cin>>sp;
 	cout<<"Difference is : "<<sp-pp;
+        (void)_getch();
 }
