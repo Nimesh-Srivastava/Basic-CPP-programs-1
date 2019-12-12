@@ -18,4 +18,5 @@ void main()
 		a = a-rem;
 	}
 	cout<<"Remainder : "<<rem;
+        (void)_getch();
 }
